@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou o Lucas Pandori! 👋
 
-<!--
-**LucasPandoriDev/LucasPandoriDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante do 4º semestre de **Tecnologia da Informação**, com formações técnicas em **ADM** e **ADS**. 
 
-Here are some ideas to get you started:
+Meu foco atual é construir uma base sólida em desenvolvimento de software, criando projetos práticos e unindo a lógica de programação à visão de processos de negócio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Sobre mim
+- 🎓 Cursando o 4º semestre da graduação em TI.
+- 💡 Primeiro contato com programação no técnico em ADS, hoje aprofundando teoria e prática na faculdade.
+- 📊 Formação em Administração, aplicando conceitos de organização e processos na rotina de desenvolvimento.
+- 🎯 Em busca de oportunidades de Estágio ou Júnior em tecnologia.
+
+---
+
+### 📫 Onde me encontrar
+- LinkedIn: www.linkedin.com/in/lucaspandori
+- E-mail: lucaspandoridev@gmail.com
